@@ -1,0 +1,7 @@
+# VS Code Tips for Mac
+
+1. **Quick Fix / Suggestions**: `Cmd + .`
+2. **Code Completion**: Start typing and press `Tab` or `Enter` to accept suggestions. `Ctrl + Space` to trigger suggestions manually.
+3. **Go to Definition**: `F12` or `Cmd + Click`
+4. **Multi-cursor**: `Opt + Click`
+5. **Format Document**: `Shift + Option + F`
